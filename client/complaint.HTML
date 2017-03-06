@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" type="image/png" href="assets/icon1.png">
+<link rel="stylesheet" type="text/css" href="assets/complaint.css">
+	<title>complaint</title>
+	<script >
+	
+function mail()
+{
+    //var username   = document.getElementById("issue").value;
+    var complient   = document.getElementById("com").value;
+     var SERVER_URL = "http://localhost:3000/complaint"+"/"+complient;
+     var complient={complient: complient};
+     var xhr = new XMLHttpRequest();
+		xhr.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				window.location.assign('request.html');
+			}
+		};
+		xhr.open("GET",SERVER_URL,true);
+		xhr.send();	
+}
+
+
+	</script>
+</head>
+<body>
+<form class="form">
+<center><img src="assets/avatar.png" height="100" width="100"></center></br>
+  <h2>Your ISSUES</h2>
+  <p type="Issue on:"><input id="issue" placeholder="Write your name here.."></input></p>
+  <p type="Complaint"><input placeholder="What would you like to change in  us.." id="com"></input></p>
+  <button onclick="mail();">Send Message</button>
+</form>
+</body>
+</html>

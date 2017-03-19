@@ -1,4 +1,4 @@
-# theTeam
+# theTeam(v 0.0.1)
 
 Getting started with app development basics
 

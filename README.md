@@ -32,7 +32,7 @@ And here's some code! :):
 
 ```
 
-This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if you have any issues.
+This is [on GitHub](https://github.com/yogeshvar/theTeam) so let me know if you have any issues.
 
 
 

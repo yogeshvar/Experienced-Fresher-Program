@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">integrate</string>
+    <string name="facebook_app_id">1873431596275281</string>
+    <string name="cancel_login">login cancelled</string>
+    <string name="error_login">encounter an error in login</string>
+    <string name="not_log_in">Encountered some error while signing in</string>
+    <string name="not_close_session">Encountered with the credentials</string>
+
+</resources>

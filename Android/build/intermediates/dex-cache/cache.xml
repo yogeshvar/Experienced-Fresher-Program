@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/332c64e3d83c8a40f3fb7e01f7b8fa49a33d247a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29864b68d990da5b14dbff9fbecf10600bcf7603">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8235d7801894e1554e2e085662cedc35a8d4169a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b1019f56628dbbd4947f3e3b9755868eb9c41a67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="392710e58ef3f5dde273806679e8533d37b73da1">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09af66c6a5f7f4d082373d9d61c915340c4bef53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ffd33127df701eb1d2950ddfa92ac1749d370ba1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c57f82c2b01374aeeaf8e38a2f1bdd592bd4b1be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_ec891edc466ee9ce2b2dcfb2db677489b4dcb45c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8d5aee5551efa6ba7badfaa8f2cebe0dfc464416/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="263c1c941f603469ecbaf8745f7b2d18ae85c5c0">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68503dd0a8b34f8b65ce1586418265e45db1701a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/19bc5e211ac95fb708dc77a32a95531af2823bd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d07c88365cc38bb2f404f31ffd46433b09d57e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3ede73f88593d9e93e292661bfbab7818df8913a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0838f7f27775e148499a463475be3db1bb05ad7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit-mock/2.0.2/befed42cb4fb8e85ef205b3facfd5b4e43fc1c8f/retrofit-mock-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="befed42cb4fb8e85ef205b3facfd5b4e43fc1c8f">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-mock-2.0.2_7271e02e0a5b63d513ba39a6eab687ded2d16432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/73f0de2537079dfb6e76f6f91e27f4c6c72e9da5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d556b385b2e9ecc44ce04d6093de61ff894a44d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_abbb6cf6565e5391600f42e794cd7651128fa41b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_6df22f83fd14d4a99c7449be775dc82bb87a021e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maggie/Documents/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d09a224ad56166ae465ae1dcb1fb17f545abb878/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a6b2e0c5586f92454e49cb9e2464f720ee3d5258/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c979f2e7d627cc8fb03d8b24797be6bd15df30f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/fada925d47a6cbee651acfce03a784ac210f1c7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db57f221bfb902fab04fed3551a9c90b2ce83d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_edd285938b329901c9dfa2b36aa0a5f7f4c8e4c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="77bf61e15f8e3df876819b2532087a5e7e0da813">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f81da0e2f35cfe4befbf1c5dd5fccf9e25ae3f4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_825fdf98befd948450a002fb451bc3000326cd2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maggie/Documents/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_d7d0250f145be9b3768dbda4696e91c9e622fda6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/82131b65ccb22078378d3819b1e173b13bc4becf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f6139ccda2313c123526796741a8e75bc22d161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/49bf1fad9adba0efc111943a8311cf2f62219ceb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6c2926e54b19f96e5568faf7b018b86bd48d28f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b6355e24702bf2bf6f6d8a52754439e24eb13916/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab66fe1d0134a26a09eed7bff6fce45a9ca53e3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ff1c935e5e2ba90c089db69c19dbb1d488aede40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fca1073958b8b8c9555eb793ed156b01de6993c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_d53b7d6d76bbcf9705e09f0c004a03b62b558194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a858d74c0834c8f255a6c9449abbf84f3fd3c9ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/maggie/Documents/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c962f2f7a9ab43580dbbf2d8d68ff17ed98a74d/classes.dex" />
+    </item>
+
+</items>

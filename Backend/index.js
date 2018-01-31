@@ -1,4 +1,4 @@
-//required modules
+    //required modules
 var express = require( "express" );
 var http    = require( "http" );
 
@@ -11,6 +11,9 @@ var app      = express();
 app.use( express.static( __dirname  + '/../Login' ) );
 console.log(__dirname);
 //routing logic
+app.get('/test',function(req,res){
+    res.send('hello world');
+})
 app.get('/login/:username/:password', myRoutes.login);
 app.get('/signup/:fname/:lname/:email/:pswd/:cpswd', myRoutes.signup);
 app.get('/home', myRoutes.home);

@@ -30,5 +30,14 @@ describe("SAMPLE unit test",function(){
         done();
       })
   })
+  it("should return test2 page",function(done){
+    server
+      .post("/test2")
+      .expect(404)
+      .end(function(err,res){
+        res.status.should.equal(200);
+        done();
+      })
+  })
 });
 

@@ -14,14 +14,16 @@ console.log(__dirname);
 app.get('/test',function(req,res){
     res.send('hello world');
 })
-app.get('test1',function(res,res){
+app.get('test1',function(req,res){
     res.send('hello world 1');
 })
 app.get('/login/:username/:password', myRoutes.login);
 app.get('/signup/:fname/:lname/:email/:pswd/:cpswd', myRoutes.signup);
 app.get('/home', myRoutes.home);
 app.get('*', myRoutes.defaultPage);
-
+app.post('test2',function(req,res){
+    res.send('hello world2');
+})
 
 //server listening in port
 app.listen(config.port, function() {

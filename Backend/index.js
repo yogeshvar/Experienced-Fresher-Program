@@ -14,6 +14,9 @@ console.log(__dirname);
 app.get('/test',function(req,res){
     res.send('hello world');
 })
+app.get('test1',function(res,res){
+    res.send('hello world 1');
+})
 app.get('/login/:username/:password', myRoutes.login);
 app.get('/signup/:fname/:lname/:email/:pswd/:cpswd', myRoutes.signup);
 app.get('/home', myRoutes.home);

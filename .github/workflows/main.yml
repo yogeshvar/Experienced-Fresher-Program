@@ -40,4 +40,4 @@ jobs:
     steps: 
     - uses: actions/checkout@v1
     - name: Build Docker image 
-      run: docker build . --file Dockerfile --tag gitaction:${date +%s}
+      run: docker build . --file Dockerfile --tag gitaction

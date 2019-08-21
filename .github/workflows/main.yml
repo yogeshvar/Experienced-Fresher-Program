@@ -50,11 +50,7 @@ jobs:
         DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
   publish: 
     needs: docker_login
-    runs-on: ${{ matrix.os }}
-    strategy: 
-      matrix:
-        node: [6, 8, 10]
-        os: [ubuntu-16.04, ubuntu-18.04]
+    runs-on: ubuntu-latest
     steps:
     - uses: elgohr/Publish-Docker-Github-Action@master
     - name: Publish to reg

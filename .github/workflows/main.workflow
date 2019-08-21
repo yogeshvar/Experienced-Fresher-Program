@@ -1,4 +1,4 @@
-name: Node CI
+name: EFP
 
 on: [status,push,pull_request]
 

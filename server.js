@@ -1,17 +1,17 @@
-var express = require('express');
-var bodyParser = require('body-parser');
-var jwt = require('jsonwebtoken');
+const express = require('express');
+const bodyParser = require('body-parser');
 
 
-var app = express();
-var authenticateController = require('./authenticateController.js');
-process.env.SECRET_KEY = "mysecretkey";
+const app = express();
+const authenticateController = require('./authenticateController.js');
 
-app.use(bodyParser.urlencoded({extended:true}));
+process.env.SECRET_KEY = 'mysecretkey';
+
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-app.get('/api/authenticate',authenticateController.authenticate);
+app.get('/api/authenticate', authenticateController.authenticate);
 
 
-app.listen(3000,function(){
-  console.log("Server is listening to port 3000");
+app.listen(3000, () => {
+  console.log('Server is listening to port 3000');
 });

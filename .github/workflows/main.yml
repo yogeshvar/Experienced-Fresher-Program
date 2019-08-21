@@ -56,8 +56,8 @@ jobs:
         node: [6, 8, 10]
         os: [ubuntu-16.04, ubuntu-18.04]
     steps:
-    - name: Publish to reg
     - uses: elgohr/Publish-Docker-Github-Action@master
+    - name: Publish to reg
       with: 
         args: yogeshvar/efp
       

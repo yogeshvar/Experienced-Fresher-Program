@@ -41,3 +41,11 @@ jobs:
     - uses: actions/checkout@v1
     - name: Build Docker image 
       run: docker build . --file Dockerfile --tag gitaction
+  docker_login: 
+    runs-on: ubuntu-latest
+    steps: 
+    - uses: actions/docker/login@master 
+      env: 
+        DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+        DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+
